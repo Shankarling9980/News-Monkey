@@ -75,10 +75,5 @@ src/
 
 ## 👨‍💻 Author
 
-Shankar
+Shankarling
 
----
-
-## 🌐 Live Demo
-
-Add your deployed project link here.
